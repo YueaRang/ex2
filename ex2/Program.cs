@@ -19,7 +19,7 @@ namespace ex2
 
                 string choose0 = Console.ReadLine();
                 int choose = int.Parse(choose0);
-                char choose1 = char.Parse(choose0);
+        
 
                 switch (choose)
                 {
